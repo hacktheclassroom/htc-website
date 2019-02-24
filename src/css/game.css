@@ -1,0 +1,27 @@
+body {
+    /*background-image: url("stripe.png");*/
+    background-repeat: repeat;
+}
+
+.really-large {
+    font-size: 64px;
+}
+
+div.code {
+    background-color: red;
+    width: 33%;
+}
+.kinda-large {
+    font-size: 48px;
+    color: white;
+}
+
+canvas.chart {
+    background-color: white;
+
+}
+
+table.highscore {
+    width: 50%;
+    height: 75%;
+}
