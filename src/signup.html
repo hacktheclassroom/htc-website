@@ -23,7 +23,7 @@
                 var token = result.credential.accessToken;
                 var user = result.user;
                 // ...
-                // console.log()
+                // console.log(result);
                 window.location.href = "game.html?token=" + token;
             }).catch(function (error) {
                 var errorCode = error.code;
